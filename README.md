@@ -9,12 +9,10 @@
             <p>Tôi tên là: Nguyễn Thiện Thành</p>
             <p>Sinh năm: 2003</p>
             <p>Sở thích:</p>
-            
             <ol>
              <li>Nghe nhạc</li> 
              <li>Đi phượt</li>
              <li>Hát</li>
-            </ol>
-
-           </body>
- </html
+             </ol>
+             </body>
+ </html>
